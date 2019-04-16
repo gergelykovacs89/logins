@@ -1,1 +1,1 @@
-# logins
+Small ruby exercise
